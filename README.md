@@ -12,6 +12,11 @@ Included in this repo:
    
 4. a png ("Inversion_Recovery.png"), showing the numerical solution to Eq 3 with initial condition M(t=0) = (0, 0 -M_0), which is called an "inversion recovery" experiment. This is unmentioned in the report but shows Eq 3 for different initial conditions.
    
-5. a png ("Still_Axes_Res_and_OffRes.png"), showing the still axes versions of Figs 2, 4
+5. a png ("Still_Axes_Res.png"), showing the still axes versions of Fig 4
    
-6. a png ("Frequency_Sweep.png"), showing the frequency sweep (so a version of Fig 3) in both coordinate systems but found from the magnetisations after 10*T, rather than setting derivatives to 0. The rotating axes frequency sweep should be near-identical to Fig 3.
+6. a png ("Still_Axes_OffRes.png") showing the still axes versions of Fig 2
+   
+7. a png ("Frequency_Sweep.png"), showing the frequency sweep (so a version of Fig 3) in both coordinate systems but found from the magnetisations after 10*T, rather than setting derivatives to 0. The rotating axes frequency sweep should be near-identical to Fig 3.
+   
+8. a file containing the python code which produces the graohs above and in the report
+
